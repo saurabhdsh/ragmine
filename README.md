@@ -4,11 +4,11 @@ Welcome to Ragmine, a powerful CLI-based agent framework preconfigured with Retr
 
 ## Features
 
-- Database Flexibility**: Connect to external databases like MongoDB or use the inbuilt ChromaDB.
-- Document Parsing**: Accepts documents in PDF format for semantic processing.
-- Model Selection**: Choose from multiple supported LLMs, including OpenAI's models, LLaMA, and more.
-- Interactive Prompts**: Ask questions based on your documents and get precise, context-aware answers.
-- Effortless CLI Workflow**: Seamlessly guide users through database selection, document input, model configuration, and prompt interaction.
+- Database Flexibility: Connect to external databases like MongoDB or use the inbuilt ChromaDB.
+- Document Parsing: Accepts documents in PDF format for semantic processing.
+- Model Selection: Choose from multiple supported LLMs, including OpenAI's models, LLaMA, and more.
+- Interactive Prompts: Ask questions based on your documents and get precise, context-aware answers.
+- Effortless CLI Workflow: Seamlessly guide users through database selection, document input, model configuration, and prompt interaction.
 
 ---
 
